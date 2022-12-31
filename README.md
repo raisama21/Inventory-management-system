@@ -1,1 +1,1 @@
-# vite-create-app
+# Inventory Management System
